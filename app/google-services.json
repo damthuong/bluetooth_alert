@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298016711222",
+    "project_id": "test1-5a298",
+    "storage_bucket": "test1-5a298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298016711222:android:4995d4d87fc42c5c3a2e97",
+        "android_client_info": {
+          "package_name": "com.example.bluetoothscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298016711222-cqd02h5eqs9rj72j2n32dj9rprvmh4in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEybLrKSukgxqYNkA9Evgxidg_gi4SLIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298016711222-cqd02h5eqs9rj72j2n32dj9rprvmh4in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
